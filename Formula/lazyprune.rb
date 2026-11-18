@@ -1,8 +1,8 @@
 class Lazyprune < Formula
   desc "TUI to find and delete heavy cache/dependency directories"
   homepage "https://github.com/ThibaultJRD/lazyprune"
-  url "https://github.com/ThibaultJRD/lazyprune/releases/download/v0.5.1/lazyprune-v0.5.1-universal-apple-darwin.tar.gz"
-  sha256 "09faee344d2565da79f684ebc4d5821a24f4c29bc4ad3f32319156627509e1cd"
+  url "https://github.com/ThibaultJRD/lazyprune/releases/download/v0.6.0/lazyprune-v0.6.0-universal-apple-darwin.tar.gz"
+  sha256 "c36df6fad4ed02ac84ace9dcfb6dd4b19ba8991a0a36e5c2b0ec610be08199b5"
   license "MIT"
 
   depends_on :macos
